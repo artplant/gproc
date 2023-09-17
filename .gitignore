@@ -3,6 +3,7 @@ _build
 .rebar3
 eqc/.eqc-info
 eqc/*.beam
+ebin
 *~
 */*~
 */#*#
